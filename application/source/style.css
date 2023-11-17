@@ -11,7 +11,7 @@ body {
     height: 100vh;
     max-width: 100vw;
     overflow-x: hidden;
-    background-image: url('/Background.webp');
+    background-image: url('/images/Background.webp');
     background-size: cover;
 }
 

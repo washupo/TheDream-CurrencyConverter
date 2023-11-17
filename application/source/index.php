@@ -34,7 +34,7 @@
     ?>
 
     <h1>
-        <img src="logo.webp" alt="logo">
+        <img src="images\Logo.webp" alt="logo - Global currencies">
     </h1>
 
     <div id="container">
